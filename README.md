@@ -12,9 +12,9 @@ In this project we will learn, how we can add a sliding transition between activ
 
 # GIF (VIDEO)
 
-|                                                                    SLIDING ANIMATION                                                                     |                       SCREENSHOT                        |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
-| <img scr="https://github.com/Android-App-Development-Instructory/Slide-Activity-Animation/blob/main/screenshots/slide_animation_between_activities.gif"> | <img src="screenshots/slide_animation_in_activity.png"> |
+|                                                                 SLIDING ANIMATION (GIF)                                                                  |                                                                    SCREENSHOT                                                                     |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img scr="https://github.com/Android-App-Development-Instructory/Slide-Activity-Animation/blob/main/screenshots/slide_animation_between_activities.gif"> | <img src="https://github.com/Android-App-Development-Instructory/Slide-Activity-Animation/blob/main/screenshots/slide_animation_in_activity.png"> |
 
 ### Disclaimer
 This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user. For any query please contact me.
