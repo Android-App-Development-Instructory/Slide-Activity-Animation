@@ -1,2 +1,2 @@
-# Slide-Activity-Animaton
-In this project we will learn, how we can add a sliding transition between activities.
+# Slide Animation Between Activities
+In this project we will learn, how we can add a sliding transition between activities. We will first apply them to specific activities only by using the overridePendingTransition method after starting an intent and also after calling the finish method. Then we will learn how to apply them globally to our whole app by creating a seperate theme in our styles.xml file and apply it to our app theme with the  windowAnimationStyle attribute.
